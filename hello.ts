@@ -1,3 +1,4 @@
 const afn=(s:string)=>{
-    return `s`
+    return `s`;
+    
 }
